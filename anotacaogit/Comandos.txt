@@ -1,0 +1,27 @@
+#Comandos Git 
+
+Git init 
+- criar ou iniciar um repositório 
+
+Git clone
+- clonar um repositório do servidro para maquina local 
+
+Git config
+- define valores de config local ou global
+
+Git add
+- adiciona o arquivo para commit 
+
+Git commit 
+- guarda o estado do repositório local
+
+Git push 
+- envia o conteúdo do repositório local para o remoto
+
+Git status
+- exibe as condições do diretório
+
+Git pull
+- baixa o conteúdo do  remoto repo e atuliza o repo o local para que os conteúdos sejam iguais.
+
+
